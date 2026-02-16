@@ -1,3 +1,7 @@
 name=test
 version=1.0
 file=test-1.0.pkg.tar.gz
+
+name=curl
+version=1.0
+file=curl-1.0.pkg.tar.gz
